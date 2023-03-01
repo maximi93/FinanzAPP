@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@capacitor/android": "^4.7.0",
+    "@capacitor/cli": "^4.7.0",
+    "@capacitor/core": "^4.7.0",
+    "@capacitor/share": "^4.1.1",
+    "@ionic-native/social-sharing": "^5.36.0"
+  }
+}
